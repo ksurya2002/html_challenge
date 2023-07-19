@@ -1,0 +1,47 @@
+
+.suri{
+	float:right;
+	width:250px;
+	height:380px;
+	
+	
+	}
+.body{
+	width:650px;
+	background-color:gray;
+	height:550px;
+	margin:150px 400px auto;
+	
+}
+.line{
+	line-height:40px;
+	
+}
+.email{
+	line-height:40px;
+	font-size:12px;
+}
+.abs{
+	
+	margin-bottom:3%;
+	
+	}
+.abc{
+	size:5px;
+	background-color:black;
+	color:white;
+	padding:10px 25px;
+	
+}
+.abcd{
+	padding:10px 35px;
+	
+}
+.abcde{
+	border:20px solid white;
+	background-color:white;
+	
+	
+	
+}
+

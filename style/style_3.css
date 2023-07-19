@@ -1,0 +1,32 @@
+.body{
+	
+	border:2px inset skyblue;
+	
+	width:650px;
+	height:274px;
+	margin:150px 450px auto;
+}
+.A{
+	color:white;
+	background-color:skyblue;
+	line-height:30px;
+	}
+.B{
+
+	width:100%;
+	border-collapse: collapse;
+	border:1px solid;
+	
+}
+.button{
+	
+	text-align:center;
+	background-color:gray;
+	line-height:2.5;
+	color:blue;
+	
+}
+.color{
+	color:white;
+	background-color:blue;
+}

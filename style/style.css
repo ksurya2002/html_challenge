@@ -1,0 +1,29 @@
+.c {
+            text-align: center;
+        }
+	
+	.beriyani {
+            text-align: left;
+        }
+.surya {
+            font-size: xx-large;
+			
+        }
+
+        .sandy {
+            font-size: medium;
+			text-align: center;
+			color: block;
+        }
+	
+        .yuva {
+            font-size: small;
+			color: red;
+        }
+		.mani{
+			display: block;
+			display: flex;
+			justify-content: center;
+		}
+		.aji{
+		}
